@@ -1,1 +1,1 @@
-# ExcellThis repository belongs to all the Excel projects with Dashboards.
+This repository belongs to all the Excel projects with Dashboards.
